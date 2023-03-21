@@ -1,0 +1,17 @@
+# This file is to be modified by user.
+
+# Enter list of tmeperature.
+Temperature: [300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000, 2100, 2200, 2300, 2400, 2500] # Input integer
+
+# Enter list of pressure.
+Pressure: ['0.0001', '0.001', '0.01', '0.1', '1', '10', '100'] # Input string
+
+# Enter species dictionary
+Species:
+  W1 : CH3OCH2OCH3
+  P1 : CH3OH + HCH3OCH3H3
+  P2 : CH2O + CH3OCH3
+  P3 : CH3 + OCH2OCH3   
+  P4 : OCH3 + CH2OCH3   
+  P5 : H + CH2OCH2OCH3  
+  P6 : H + CH3OCHOCH3  
