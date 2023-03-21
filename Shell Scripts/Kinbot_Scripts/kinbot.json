@@ -1,0 +1,22 @@
+{
+"title":"isooctane_P9_oxi_kinbot",
+"queuing" : "slurm",
+"queue_name" : "normal",
+"queue_template" : "job_template.text",
+"charge" : 0,
+"mult" : 2,
+"method" : "b3lyp",
+"basis" : "6-311++g*",
+"qc" : "gauss",
+"qc_command" : "g16",
+"conformer_search" : 0,
+"reaction_search" : 1,
+"rotor_scan" : 0,
+"high_level" : 0,
+"pes" : 0,
+"homolytic_scissions" : 1,
+"barrier_threshold" : 120.0,
+"ppn" : 12,
+
+"smiles" : "CC(C)C(O[O])C(C)(C)C"
+}
