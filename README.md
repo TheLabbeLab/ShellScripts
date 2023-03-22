@@ -1,1 +1,1 @@
-The Shel Scripts require for running gaussian and kinbot
+The Shel Scripts require for running gaussian kinbot and mess.
